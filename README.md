@@ -42,6 +42,15 @@ Start the server
 
 Server will start running on given port
 
+## Supported Torrents
+#### Following is the list of supports torrent scrappers by torrent-api
+
+| Torrent | API End Point     | Status   |
+| :-------- | :------- | :------------------------- |
+| `1337x` | `GET /torrent/1337x/search/{query}/{pageNo}` | **Working** |
+| `RARBG` | `GET /torrent/rarbg/search/{query}/{pageNo}` | **Working** |
+| `ThePirateBay` | `GET /torrent/piratebay/search/{query}/{pageNo}` | **Working** |
+
 ## API Reference
 
 ### GET 1337x search
@@ -51,7 +60,7 @@ Server will start running on given port
   GET /torrent/1337x/search/{query}/{pageNo}
 ```
 
-| Query Parameter | Type     | Description                |
+| Path Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `query` | `string` | **Required**. query like movie, tv show or a file name |
 | `pageNo` | `number` | page number |
@@ -67,7 +76,7 @@ Server will start running on given port
   GET /torrent/rarbg/search/{query}/{pageNo}
 ```
 
-| Query Parameter | Type     | Description                |
+| Path Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `query` | `string` | **Required**. query like movie, tv show or a file name |
 | `pageNo` | `number` | page number |
@@ -84,7 +93,7 @@ Server will start running on given port
   GET /torrent/piratebay/search/{query}/{pageNo}
 ```
 
-| Query Parameter | Type     | Description                |
+| Path Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `query` | `string` | **Required**. query like movie, tv show or a file name |
 | `pageNo` | `number` | page number |
