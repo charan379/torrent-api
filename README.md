@@ -54,7 +54,7 @@ Server will start running on given port
 | Query Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `query` | `string` | **Required**. query like movie, tv show or a file name |
-| `pageNo` | `string` | page number |
+| `pageNo` | `number` | page number |
 
 #### Example
 ```bash
@@ -70,7 +70,7 @@ Server will start running on given port
 | Query Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `query` | `string` | **Required**. query like movie, tv show or a file name |
-| `pageNo` | `string` | page number |
+| `pageNo` | `number` | page number |
 
 #### Example
 ```bash
@@ -87,7 +87,7 @@ Server will start running on given port
 | Query Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `query` | `string` | **Required**. query like movie, tv show or a file name |
-| `pageNo` | `string` | page number |
+| `pageNo` | `number` | page number |
 
 #### Example
 ```bash
