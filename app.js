@@ -27,10 +27,14 @@ const swaggerOptions = {
       title: "torrent-api",
       description:
         "This is REST API application that scrapes various torrent providers and makes result available in json format through end-points, Basically Developed as part of  MovieBunkers Application",
-      version: "1.0.0",
+      version: "1.0.2",
       contact: {
         name: "charan379",
         url: "#",
+      },
+      license: {
+        name: "GNU Affero General Public License",
+        url: "https://www.gnu.org/licenses/agpl-3.0.en.html",
       },
       servers: [
         {
