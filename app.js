@@ -4,6 +4,7 @@ const path = require("path");
 const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const stylus = require("stylus");
+require("dotenv").config();
 const swaggerJSDoc = require("swagger-jsdoc");
 const swaggerUi = require("swagger-ui-express");
 
@@ -51,6 +52,7 @@ app.use(cookieParser());
 app.use(stylus.middleware(path.join(__dirname, "public")));
 app.use(express.static(path.join(__dirname, "public")));
 
+// routes
 app.use("/", indexRouter);
 app.use("/users", usersRouter);
 app.use("/torrent", torrent_routes);
