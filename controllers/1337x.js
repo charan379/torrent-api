@@ -5,7 +5,6 @@ async function scrap1337x(query = "", page = "1") {
   const torrentsDataSet = [];
   let html;
   const url = "https://1337xx.to/search/" + query + "/" + page + "/";
-  console.log(url);
   try {
     html = await axios.get(url);
   } catch {
