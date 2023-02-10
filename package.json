@@ -14,7 +14,7 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
-    "stylus": "0.54.5",
+    "stylus": "^0.54.8",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^4.6.0"
   },
