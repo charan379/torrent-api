@@ -1,4 +1,4 @@
-# torrent-api
+# torrent-api 
 
 This is REST API application that scrapes various torrent providers and makes result available in json format through end-points, Basically Developed as part of  MovieBunkers Application
 
@@ -116,4 +116,4 @@ Server will start running on given port
 
 ## License
 
-[GNU AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[![AGPL License](https://img.shields.io/badge/LICENSE-GNU%20AGPLv3-brightgreen)](https://www.gnu.org/licenses/agpl-3.0.en.html)
