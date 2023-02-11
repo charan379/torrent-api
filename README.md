@@ -47,7 +47,7 @@ Start the server
 Server will start running on given port
 
 ## Supported Torrent END Points
-#### Following is the list of supports torrent scrappers by torrent-api
+#### Following is the list of supported torrent scrappers by [torrent-api](https://github.com/charan379/torrent-api)
 
 | Torrent | API END Point     | Status   |
 | :-------- | :------- | :------------------------- |
