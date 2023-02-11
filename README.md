@@ -46,10 +46,10 @@ Start the server
 
 Server will start running on given port
 
-## Supported Torrents
+## Supported Torrent END Points
 #### Following is the list of supports torrent scrappers by torrent-api
 
-| Torrent | API End Point     | Status   |
+| Torrent | API END Point     | Status   |
 | :-------- | :------- | :------------------------- |
 | `1337x` | `GET` [`/torrent/1337x/search/{query}/{pageNo}`](#get-1337x-search) | **:green_circle:** |
 | `RARBG` | `GET` [`/torrent/rarbg/search/{query}/{pageNo}`](#get-rarbg-search) | **:green_circle:**: |
