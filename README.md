@@ -52,7 +52,7 @@ Server will start running on given port
 | Torrent | API END Point     | Status   |
 | :-------- | :------- | :------------------------- |
 | `1337x` | `GET` [`/torrent/1337x/search/{query}/{pageNo}`](#get-1337x-search) | **:green_circle:** |
-| `RARBG` | `GET` [`/torrent/rarbg/search/{query}/{pageNo}`](#get-rarbg-search) | **:green_circle:**: |
+| `RARBG` | `GET` [`/torrent/rarbg/search/{query}/{pageNo}`](#get-rarbg-search) | **:green_circle:** |
 | `ThePirateBay` | `GET` [`/torrent/piratebay/search/{query}/{pageNo}`](#get-the_pirate_bay-search) | **:green_circle:** |
 
 ## API Reference
