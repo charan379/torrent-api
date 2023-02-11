@@ -1,4 +1,12 @@
-# torrent-api  [![AGPL License](https://img.shields.io/badge/LICENSE-GNU%20AGPLv3-brightgreen)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+# torrent-api :magnet:
+<!-- License -->
+[![AGPL License](https://img.shields.io/badge/LICENSE-GNU%20AGPLv3-informational)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+[![VERSION](https://img.shields.io/badge/version-1.0.2-sucess)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+[![LAST UPDATD](https://img.shields.io/badge/last--updated-11--Feb--2023-sucess)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+
 
 This is REST API application that scrapes various torrent providers and makes result available in json format through end-points, Basically Developed as part of  MovieBunkers Application
 
