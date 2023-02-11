@@ -1,5 +1,5 @@
 # torrent-api :magnet:
-<!-- License -->
+
 [![VERSION](https://img.shields.io/badge/VERSION-v1.0.2-sucess)](https://github.com/charan379/torrent-api)    [![LAST UPDATD](https://img.shields.io/badge/LAST--UPDATED-11--Feb--2023-sucess)](https://github.com/charan379/torrent-api) [![AGPL License](https://img.shields.io/badge/LICENSE-GNU%20AGPLv3-informational)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
 
@@ -51,7 +51,7 @@ Server will start running on given port
 
 | Torrent | API End Point     | Status   |
 | :-------- | :------- | :------------------------- |
-| `1337x` | `GET /torrent/1337x/search/{query}/{pageNo}` | :green_circle: |
+| [`1337x`](#get-1337x-search) | `GET /torrent/1337x/search/{query}/{pageNo}` | :green_circle: |
 | `RARBG` | `GET /torrent/rarbg/search/{query}/{pageNo}` | :green_circle: |
 | `ThePirateBay` | `GET /torrent/piratebay/search/{query}/{pageNo}` | **:green_circle:** |
 
