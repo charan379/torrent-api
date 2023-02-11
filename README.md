@@ -1,10 +1,6 @@
 # torrent-api :magnet:
 <!-- License -->
-[![AGPL License](https://img.shields.io/badge/LICENSE-GNU%20AGPLv3-informational)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-
-[![VERSION](https://img.shields.io/badge/version-1.0.2-sucess)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-
-[![LAST UPDATD](https://img.shields.io/badge/last--updated-11--Feb--2023-sucess)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+[![AGPL License](https://img.shields.io/badge/LICENSE-GNU%20AGPLv3-informational)](https://www.gnu.org/licenses/agpl-3.0.en.html)  [![VERSION](https://img.shields.io/badge/version-1.0.2-sucess)](https://www.gnu.org/licenses/agpl-3.0.en.html) [![LAST UPDATD](https://img.shields.io/badge/last--updated-11--Feb--2023-sucess)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
 
 
